@@ -5,7 +5,7 @@ Movie recommender using data from MovieLens Dataset to find similar movies and r
 
 ## Instructions
 To run the program issue the following command:
-```python
+```bash
 python main.py
 ````
 
